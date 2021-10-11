@@ -1,2 +1,4 @@
-# flask-study
-flask-api study 
+# Flask-study
+
+`flask==1.1.2`
+
